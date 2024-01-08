@@ -1,2 +1,3 @@
-# rebooted-wp
-Rebooting Wordpress
+# REBOOTING WORDPRESS (EN)
+---
+
